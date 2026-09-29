@@ -3,3 +3,4 @@ jdk/
 jdk.zip
 java-version/build/
 java-version/*.class
+java-version/*.jar
