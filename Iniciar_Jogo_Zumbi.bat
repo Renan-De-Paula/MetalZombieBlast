@@ -1,0 +1,3 @@
+@echo off
+echo Iniciando Zombie Game...
+start "" ".\jdk\jdk-21.0.4+7\bin\javaw.exe" -jar ".\java-version\ZombieGame.jar"
