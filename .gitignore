@@ -4,3 +4,7 @@ jdk.zip
 java-version/build/
 java-version/*.class
 java-version/*.jar
+novojogo/jre/
+novojogo/target/
+novojogo/*.class
+novojogo/dependency-reduced-pom.xml
